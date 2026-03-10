@@ -338,5 +338,15 @@ img {
     height: 90px;
     border-radius: 10px;
     margin-top: 10px;
-}
+    }
+
+    .Years {
+    left: 270px;
+    top: 300px;
+    font-size: 10px;
+    }
+
+    .year {
+    font-size: 20px;
+    }
 }
