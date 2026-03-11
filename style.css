@@ -119,7 +119,7 @@ img {
 .foot-box {
     display: flex;
     gap: 20px;
-    background-image: url(./Asset/down.jpg);
+    background-image: url(./assets/down.jpg);
     width: 793px;
     height: 200px;
     padding: 0px;
